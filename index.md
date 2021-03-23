@@ -6,9 +6,7 @@
 
 Online, August 2-6, 2021.  
 
-
-[//]: # "![Seattle](img_Seattle.jpg)"
-![Seattle](FRIB_southeast_view.jpg)
+![FRIB](FRIB_southeast_view.jpg)
 
 ## Brief description
 
