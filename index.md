@@ -6,8 +6,7 @@
 
 Online, August 2-6, 2021.  
 
-![FRIB](FRIB_southeast_view.jpg)
-![FRIB](images/FRIB_southeast_view.jpg)
+![FRIB](images/FRIB_southeast_view_cropped.jpg)
 
 ## Brief description
 
