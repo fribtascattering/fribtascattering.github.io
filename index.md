@@ -27,6 +27,8 @@ At the end of this three-day course, participants will have a firm understanding
 
 ## Material
 
+Some of the material will be added later.
+
 ### D1, M1 lecture
 - Introduction
 - Math and physics review [slides](slides/)
