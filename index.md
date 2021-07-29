@@ -2,7 +2,8 @@
 
 ## A practical walk through formal scattering theory: Connecting bound states, resonances, and scattering states in exotic nuclei and beyond
 
-Online, August 4-6, 2021.
+- Online, August 4-6, 2021.
+- [Indico Event Page](https://indico.frib.msu.edu/event/43/)
 
 ![FRIB](images/FRIB_southeast_view_cropped.jpg)
 
