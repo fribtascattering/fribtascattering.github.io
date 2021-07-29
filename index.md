@@ -33,13 +33,13 @@ At the end of this three-day course, participants will have a firm understanding
 
 - D1, M1 lecture
   - Introduction
-  - Math and physics review [slides](slides/)
+  - Math and physics review
 
 - D1, M2 lecture
-  - Lippmann-Schwinger equation [slides](slides/lseq.pdf)
+  - Lippmann-Schwinger equation ([slides](slides/lseq.pdf))
 
 - D1, A1 lecture
-  - Radial Schrödinger equation [slides](slides/radseq.pdf)
+  - Radial Schrödinger equation ([slides](slides/radseq.pdf))
 
 - D1, A2 lab
   - Scattering wavefunctions
@@ -48,25 +48,25 @@ At the end of this three-day course, participants will have a firm understanding
 
 - D2, M1 lecture
   - Lippmann-Schwinger equation (continued)
-  - Analytic continuation [slides](slides/contour.pdf)
+  - Analytic continuation ([slides](slides/contour.pdf))
 
 - D2, M2 lab
   - Bound states and virtual states
 
 - D2, A1 lecture
-  - Quasi-stationary formalism I [slides](slides/)
+  - Quasi-stationary formalism I
 
 - D2, A2 lab
 
 ### Day 3
 
 - D3, M1 lecture
-  - Quasi-stationary formalism II [slides](slides/)
+  - Quasi-stationary formalism II
 
 - D3, M2 lab
 
 - D3, A1 lecture
-  - Few- and many-body calculations [slides](slides/)
+  - Few- and many-body calculations
 
 - D3, A2 lab
 
