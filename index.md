@@ -19,9 +19,9 @@ At the end of this three-day course, participants will have a firm understanding
 ## Teachers and local organization
 
 ### Lecturers/Organizers:
-- Sebastian K&ouml;nig, North Carolina State University, USA
-- Kevin Fossez, FRIB, Michigan State University, and Argonne National Laboratory, USA
-- Heiko Hergert, FRIB, Michigan State University, USA
+- [Sebastian K&ouml;nig](https://skoenig.wordpress.ncsu.edu/), North Carolina State University, USA
+- [Kevin Fossez](https://www.phy.anl.gov/theory/staff/kfossez/kfossez.html), FRIB, Michigan State University, and Argonne National Laboratory, USA
+- [Heiko Hergert](https://pa.msu.edu/profile/hergert/), FRIB, Michigan State University, USA
 
 ## Schedule and material
 
