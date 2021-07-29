@@ -1,8 +1,6 @@
-# FRIB-TA summer school
+# FRIB-TA Summer School
 
-[UNDER CONSTRUCTION]
-
-### A practical walk through formal scattering theory: Connecting bound states, resonances, and scattering states in exotic nuclei and beyond
+## A practical walk through formal scattering theory: Connecting bound states, resonances, and scattering states in exotic nuclei and beyond
 
 Online, August 4-6, 2021.
 
@@ -24,57 +22,51 @@ At the end of this three-day course, participants will have a firm understanding
 - Kevin Fossez, FRIB, Michigan State University, and Argonne National Laboratory, USA
 - Heiko Hergert, FRIB, Michigan State University, USA
 
-
 ## Schedule and material
 
-**Some of the material will be added later.**
+**Some of the material will be added later, please check again in a few days.**
 
 ### Day 1
 
-- D1, M1 lecture
+- D1, M1: lecture
   - Introduction
   - Math and physics review
 
-- D1, M2 lecture
+- D1, M2: lecture
   - Lippmann-Schwinger equation ([slides](slides/lseq.pdf))
 
-- D1, A1 lecture
+- D1, A1: lecture
   - Radial Schrödinger equation ([slides](slides/radseq.pdf))
 
-- D1, A2 lab
+- D1, A2: lab
   - Scattering wavefunctions
 
 ### Day 2
 
-- D2, M1 lecture
+- D2, M1: lecture
   - Lippmann-Schwinger equation (continued)
   - Analytic continuation ([slides](slides/contour.pdf))
 
-- D2, M2 lab
+- D2, M2: lab
   - Bound states and virtual states
 
-- D2, A1 lecture
+- D2, A1: lecture
   - Quasi-stationary formalism I
 
-- D2, A2 lab
+- D2, A2: lab
 
 ### Day 3
 
-- D3, M1 lecture
+- D3, M1: lecture
   - Quasi-stationary formalism II
 
-- D3, M2 lab
+- D3, M2: lab
 
-- D3, A1 lecture
+- D3, A1: lecture
   - Few- and many-body calculations
 
-- D3, A2 lab
+- D3, A2: lab
 
 ---
 
 This [FRIB-TA](https://fribtheoryalliance.org/) school is made possible with generous funding from the Facility for Rare Isotope Beams ([FRIB](https://frib.msu.edu/)), USA.
-
-
-## Apply
-
-Applications are currently closed.
