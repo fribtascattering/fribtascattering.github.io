@@ -31,7 +31,7 @@ Some of the material will be added later.
 
 ### D1, M1 lecture
 - Introduction
-- Math and physics review [slides](slides/)
+- Math and physics review [slides](slides/lecture_FRIBTA_scatt_th_reminder.pdf)
 
 ### D1, M2 lecture
 - Lippmann-Schwinger equation [slides](slides/lseq.pdf)
@@ -50,12 +50,12 @@ Some of the material will be added later.
 - Bound states and virtual states
 
 ### D2, A1 lecture
-- Quasi-stationary formalism I [slides](slides/)
+- Quasi-stationary formalism I [slides](slides/lecture_FRIBTA_scatt_th_QSF_I.pdf)
 
 ### D2, A2 lab
 
 ### D3, M1 lecture
-- Quasi-stationary formalism II [slides](slides/)
+- Quasi-stationary formalism II [slides](slides/lecture_FRIBTA_scatt_th_QSF_II.pdf)
 
 ### D3, M2 lab
 
