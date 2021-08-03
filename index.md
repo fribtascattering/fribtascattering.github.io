@@ -62,7 +62,7 @@ At the end of this three-day course, participants will have a firm understanding
 - D3, M2: lab
 
 - D3, A1: lecture
-  - Few- and many-body calculations
+  - Few- and many-body calculations ([slides](slides/lecture_FRIBTA_scatt_th_MB.pdf))
 
 - D3, A2: lab
 
