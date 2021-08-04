@@ -27,44 +27,44 @@ At the end of this three-day course, participants will have a firm understanding
 
 ### Day 1
 
-- D1, M1: lecture
-  - Introduction
+- **D1, M1 (9:00am-10:30am EDT): lecture**
+  - Introduction ([slides](slides/intro.pdf))
   - Math and physics review ([slides](slides/lecture_FRIBTA_scatt_th_reminder.pdf))
-
-- D1, M2: lecture
+- Break (10:30am-11:00am EDT)
+- **D1, M2 (11:00am-12:30pm EDT): lecture**
   - Lippmann-Schwinger equation ([slides](slides/lseq.pdf))
-
-- D1, A1: lecture
+- Break (12:30pm-1:30pm EDT)
+- **D1, A1 (1:30pm-3:00pm EDT): lecture**
   - Radial Schrödinger equation ([slides](slides/radseq.pdf))
-
-- D1, A2: lab
+- Break (3:00pm-3:30pm EDT)
+- **D1, A2 (3:30pm-5:00pm EDT): lab**
   - Scattering wavefunctions
 
 ### Day 2
 
-- D2, M1: lecture
+- **D2, M1 (9:00am-10:30am EDT): lecture**
   - Lippmann-Schwinger equation (continued)
   - Analytic continuation ([slides](slides/contour.pdf))
-
-- D2, M2: lab
+- Break (10:30am-11:00am EDT)
+- **D2, M2 (11:00am-12:30pm EDT): lab**
   - Bound states and virtual states
-
-- D2, A1: lecture
+- Break (12:30pm-1:30pm EDT)
+- **D2, A1 (1:30pm-3:00pm EDT): lecture**
   - Quasi-stationary formalism I ([slides](slides/lecture_FRIBTA_scatt_th_QSF_I.pdf))
-
-- D2, A2: lab
+- Break (3:00pm-3:30pm EDT)
+- **D2, A2 (3:30pm-5:00pm EDT): lab**
 
 ### Day 3
 
-- D3, M1: lecture
+- **D3, M1 (9:00am-10:30am EDT): lecture**
   - Quasi-stationary formalism II ([slides](slides/lecture_FRIBTA_scatt_th_QSF_II.pdf))
-
-- D3, M2: lab
-
-- D3, A1: lecture
+- Break (10:30am-11:00am EDT)
+- **D3, M2 (11:00am-12:30pm EDT): lab**
+- Break (12:30pm-1:30pm EDT)
+- **D3, A1 (1:30pm-3:00pm EDT): lecture**
   - Few- and many-body calculations ([slides](slides/lecture_FRIBTA_scatt_th_MB.pdf))
-
-- D3, A2: lab
+- Break (3:00pm-3:30pm EDT)
+- **D3, A2 (3:30pm-5:00pm EDT): lab**
 
 ---
 
