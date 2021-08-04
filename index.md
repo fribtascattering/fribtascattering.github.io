@@ -36,7 +36,7 @@ At the end of this three-day course, participants will have a firm understanding
   - Quadrature for integral equations ([notebook](code/quad.ipynb))
 - Break (12:30pm-1:30pm EDT)
 - **D1, A1 (1:30pm-3:00pm EDT): lecture**
-  - Radial Schrödinger equation ([slides](slides/radseq.pdf))
+  - Radial Schrödinger equation ([slides](slides/radseq.pdf), [notebook](code/radseq.ipynb))
 - Break (3:00pm-3:30pm EDT)
 - **D1, A2 (3:30pm-5:00pm EDT): lab**
   - Scattering wavefunctions
