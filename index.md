@@ -28,7 +28,7 @@ At the end of this three-day course, participants will have a firm understanding
 ### Day 1
 
 - **D1, M1 (9:00am-10:30am EDT): lecture**
-  - Introduction
+  - Introduction ([slides](slides/intro.pdf))
   - Math and physics review ([slides](slides/lecture_FRIBTA_scatt_th_reminder.pdf))
 - Break (10:30am-11:00am EDT)
 - **D1, M2 (11:00am-12:30pm EDT): lecture**
