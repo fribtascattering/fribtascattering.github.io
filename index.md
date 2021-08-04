@@ -32,7 +32,8 @@ At the end of this three-day course, participants will have a firm understanding
   - Math and physics review ([slides](slides/lecture_FRIBTA_scatt_th_reminder.pdf))
 - Break (10:30am-11:00am EDT)
 - **D1, M2 (11:00am-12:30pm EDT): lecture**
-  - Lippmann-Schwinger equation ([slides](slides/lseq.pdf))
+  - Lippmann-Schwinger equation ([slides](slides/lseq.pdf), [notebook](code/lseq.ipynb))
+  - Quadrature for integral equations ([notebook](code/quad.ipynb))
 - Break (12:30pm-1:30pm EDT)
 - **D1, A1 (1:30pm-3:00pm EDT): lecture**
   - Radial Schrödinger equation ([slides](slides/radseq.pdf))
