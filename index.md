@@ -53,7 +53,7 @@ At the end of this three-day course, participants will have a firm understanding
 - **D2, A1 (1:30pm-3:00pm EDT): lecture**
   - Quasi-stationary formalism I ([slides](slides/lecture_FRIBTA_scatt_th_QSF_I.pdf))
 - Break (3:00pm-3:30pm EDT)
-- **D2, A2 (3:30pm-5:00pm EDT): lab**
+- **D2, A2 (3:30pm-5:00pm EDT): lab** ([notebook solution](code/qsf_lab_1_sol.ipynb))
 
 ### Day 3
 
