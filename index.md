@@ -45,6 +45,8 @@ At the end of this three-day course, participants will have a firm understanding
 
 - **D2, M1 (9:00am-10:30am EDT): lecture**
   - Lippmann-Schwinger equation (continued)
+  - Scattering wavefunctions ([notebook](code/scattwf.ipynb))
+  - Scattering eigenstates ([notebook](code/eigen.ipynb))
   - Analytic continuation ([slides](slides/contour.pdf))
 - Break (10:30am-11:00am EDT)
 - **D2, M2 (11:00am-12:30pm EDT): lab**
