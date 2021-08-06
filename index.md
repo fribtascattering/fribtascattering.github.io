@@ -61,6 +61,7 @@ At the end of this three-day course, participants will have a firm understanding
 
 - **D3, M1 (9:00am-10:30am EDT): lecture**
   - Quasi-stationary formalism II ([slides](slides/lecture_FRIBTA_scatt_th_QSF_II.pdf), [Jost function paper](https://doi.org/10.1093/ptep/ptt101))
+  - Virtual-state search in momentum space ([notebook](code/virtual.ipynb))
 - Break (10:30am-11:00am EDT)
 - **D3, M2 (11:00am-12:30pm EDT): lab** ([notebook solution](code/qsf_lab_2_sol.ipynb))
 - Break (12:30pm-1:30pm EDT)
