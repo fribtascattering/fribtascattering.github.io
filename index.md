@@ -25,6 +25,8 @@ At the end of this three-day course, participants will have a firm understanding
 
 ## Schedule and material
 
+- [Python helper library](code/lib.zip) (required by several notebooks linked below)
+
 ### Day 1
 
 - **D1, M1 (9:00am-10:30am EDT): lecture**
@@ -68,7 +70,7 @@ At the end of this three-day course, participants will have a firm understanding
 - **D3, A1 (1:30pm-3:00pm EDT): lecture**
   - Few- and many-body calculations ([slides](slides/lecture_FRIBTA_scatt_th_MB.pdf))
 - Break (3:00pm-3:30pm EDT)
-- **D3, A2 (3:30pm-5:00pm EDT): lab** 
+- **D3, A2 (3:30pm-5:00pm EDT): lab**
 
 ---
 
