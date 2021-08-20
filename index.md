@@ -74,4 +74,6 @@ At the end of this three-day course, participants will have a firm understanding
 
 ---
 
-This [FRIB-TA](https://fribtheoryalliance.org/) school is made possible with generous funding from the Facility for Rare Isotope Beams ([FRIB](https://frib.msu.edu/)), USA.
+This summer school and associated materials were supported by the U.S.
+Department of Energy, Office of Science, Office of Nuclear Physics, under the
+[FRIB Theory Alliance](https://fribtheoryalliance.org/) award DE-SC0013617.
